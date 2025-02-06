@@ -1,4 +1,5 @@
 # DataScienceI
+
 Proyecto de DataScience Comisión 72635
 
 Proyecto Fundamentos para la ciencia de datos
@@ -6,7 +7,9 @@ Proyecto Fundamentos para la ciencia de datos
 Tatiana Martinez
 
 DataFrame Data Science Salaries
+
 DATASET
+
 Este conjunto de datos 'data_science_salaries.xlsx' abarca desde 2020 hasta 2024. incluye las siguientes columnas:
 
 job_title: El cargo o función asociado al salario notificado.
